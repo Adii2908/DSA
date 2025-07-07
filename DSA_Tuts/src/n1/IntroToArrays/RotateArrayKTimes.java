@@ -1,4 +1,4 @@
-package n1;
+package n1.IntroToArrays;
 
 import java.util.Arrays;
 
